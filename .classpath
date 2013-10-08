@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="program/Executable.java|program/ExecutableFinder.java|program/ExecutableFinderThread.java|run/config/RunConfig.java|run/config/ExecutionRunConfig.java|run/config/ClusteringRunConfig.java|run/config/ParameterOptimizationRunConfig.java|run/config/InternalParameterOptimizationRunConfig.java|run/config/AnalysisRunConfig.java|run/config/DataAnalysisRunConfig.java|run/config/RunAnalysisRunConfig.java|run/config/RunDataAnalysisRunConfig.java|run/config/" kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/clustevalGraphMatch_old"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/jansi-1.9.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/jline-2.8-SNAPSHOT-sources.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/jline-2.8-SNAPSHOT.jar" sourcepath="/home/wiwie/Dropbox/workspace/ClusEvalFramework/lib/jline-2.8-SNAPSHOT-sources.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/junit-addons-1.4.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/junit.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/org.hamcrest.core_1.1.0.v20090501071000.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/Wiutils.jar" sourcepath="/Wiutils/src"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/apacheCommons/commons-cli-1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/apacheCommons/commons-cli-1.2-sources.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/apacheCommons/commons-cli-1.2.jar" sourcepath="/clustevalGraphMatch/lib/apacheCommons/commons-cli-1.2-sources.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/apacheCommons/commons-configuration-1.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/apacheCommons/commons-configuration-1.8-sources.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/apacheCommons/commons-configuration-1.8.jar" sourcepath="/clustevalGraphMatch/lib/apacheCommons/commons-configuration-1.8-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/ClusEvalFramework/lib/apacheCommons/commons-configuration-1.8-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/apacheCommons/commons-io-2.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/apacheCommons/commons-io-2.3-sources.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/apacheCommons/commons-io-2.3.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/apacheCommons/commons-lang-2.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/apacheCommons/commons-lang-2.6-sources.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/apacheCommons/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/apacheCommons/commons-lang3-3.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/apacheCommons/commons-lang3-3.1-sources.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/apacheCommons/commons-lang3-3.1-tests.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/apacheCommons/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/apacheCommons/commons-logging-1.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/apacheCommons/commons-logging-1.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/apacheCommons/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/apacheCommons/commons-logging-adapters-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/apacheCommons/commons-logging-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/apacheCommons/commons-logging-tests.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/logback/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/logback/logback-access-1.0.1-sources.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/logback/logback-access-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/logback/logback-access-1.0.9-sources.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/logback/logback-access-1.0.9.jar" sourcepath="/clustevalGraphMatch/lib/logback/logback-access-1.0.9-sources.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/logback/logback-classic-1.0.1-sources.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/logback/logback-classic-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/logback/logback-classic-1.0.9-sources.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/logback/logback-classic-1.0.9.jar" sourcepath="/clustevalGraphMatch/lib/logback/logback-classic-1.0.9-sources.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/logback/logback-core-1.0.1-sources.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/logback/logback-core-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/logback/logback-core-1.0.9-sources.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/logback/logback-core-1.0.9.jar" sourcepath="/clustevalGraphMatch/lib/logback/logback-core-1.0.9-sources.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/logback/slf4j-api-1.6.4-sources.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/logback/slf4j-api-1.6.4.jar" sourcepath="/clustevalGraphMatch/lib/logback/slf4j-api-1.6.4-sources.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/pcolt/parallelcolt-0.9.4.jar" sourcepath="/clustevalGraphMatch/lib/pcolt/src">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/home/wiwie/Dropbox/workspace/ClusEvalFramework/lib/pcolt/doc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/rJava/REngine.jar" sourcepath="/clustevalGraphMatch/lib/rJava"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/rJava/Rserve.jar" sourcepath="/clustevalGraphMatch/lib/rJava"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/transclust/TransClust.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/jung2/jung-algorithms-2.0.1.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/jung2/jung-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="/clustevalGraphMatch/lib/jung2/jung-graph-impl-2.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
