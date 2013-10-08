@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/CSB/ClustEval/!svn/ver/1176/trunk/repository/programs/configs
+END
+MCL_1.config
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/CSB/ClustEval/!svn/ver/896/trunk/repository/programs/configs/MCL_1.config
+END
+Spectral_Clustering.config
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CSB/ClustEval/!svn/ver/834/trunk/repository/programs/configs/Spectral_Clustering.config
+END
+Hierarchical_Clustering.config
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/CSB/ClustEval/!svn/ver/834/trunk/repository/programs/configs/Hierarchical_Clustering.config
+END
+KMeans_Clustering.config
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/CSB/ClustEval/!svn/ver/834/trunk/repository/programs/configs/KMeans_Clustering.config
+END
+APcluster_1.config
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/CSB/ClustEval/!svn/ver/845/trunk/repository/programs/configs/APcluster_1.config
+END
+TransClust_1.config
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/CSB/ClustEval/!svn/ver/845/trunk/repository/programs/configs/TransClust_1.config
+END
+TransClust_2.config
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/CSB/ClustEval/!svn/ver/845/trunk/repository/programs/configs/TransClust_2.config
+END
+Fanny_Clustering.config
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/CSB/ClustEval/!svn/ver/1176/trunk/repository/programs/configs/Fanny_Clustering.config
+END

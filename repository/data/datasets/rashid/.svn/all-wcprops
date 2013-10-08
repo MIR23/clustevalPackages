@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/CSB/ClustEval/!svn/ver/785/trunk/repository/data/datasets/nora_cancer_all
+END
+all_emc_spearman.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/CSB/ClustEval/!svn/ver/785/trunk/repository/data/datasets/nora_cancer_all/all_emc_spearman.txt
+END
+all_emc_spearman.txt.strip
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CSB/ClustEval/!svn/ver/785/trunk/repository/data/datasets/nora_cancer_all/all_emc_spearman.txt.strip
+END
+all_emc_spearman.RData
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/CSB/ClustEval/!svn/ver/785/trunk/repository/data/datasets/nora_cancer_all/all_emc_spearman.RData
+END

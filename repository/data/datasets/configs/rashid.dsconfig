@@ -1,0 +1,21 @@
+groups = N1,N2
+
+[edgelist1]
+datasetName = rashid
+datasetFile = N1.edgelist
+groupName = N1
+
+[edgelist2]
+datasetName = rashid
+datasetFile = N2.edgelist
+groupName = N2
+
+[sigs1]
+datasetName = rashid
+datasetFile = N1.sigs
+groupName = N1
+
+[sigs2]
+datasetName = rashid
+datasetFile = N2.sigs
+groupName = N2

@@ -1,0 +1,8 @@
+programConfig = TransClust_1
+dataConfig = test50
+
+[TransClust_1]
+minT = 0.0
+maxT = 1.0
+mode = 2
+tss = 0.01

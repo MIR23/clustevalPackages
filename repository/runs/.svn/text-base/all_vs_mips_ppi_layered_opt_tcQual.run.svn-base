@@ -1,0 +1,23 @@
+programConfig = TransClust_2,Hierarchical_Clustering,Spectral_Clustering,APcluster_1,MCL_1
+dataConfig = ppi_mips
+qualityMeasures = SilhouetteValueRClusteringQualityMeasure,TransClustF2ClusteringQualityMeasure,FDRClusteringQualityMeasure,FPRClusteringQualityMeasure,RandIndexClusteringQualityMeasure,SensitivityClusteringQualityMeasure,SpecificityClusteringQualityMeasure
+mode = parameter_optimization
+optimizationMethod = LayeredDivisiveParameterOptimizationMethod
+optimizationCriterion = TransClustF2ClusteringQualityMeasure
+optimizationIterations = 1001
+
+[TransClust_2]
+optimizationParameters = T
+
+[MCL_1]
+optimizationParameters = I
+
+[APcluster_1]
+optimizationParameters = preference,maxits,convits,dampfact
+optimizationMethod = APParameterOptimizationMethod
+
+[Hierarchical_Clustering]
+optimizationParameters = k
+
+[Spectral_Clustering]
+optimizationParameters = k

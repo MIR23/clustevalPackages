@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/CSB/ClustEval/!svn/ver/928/trunk/repository/data/goldstandards/configs
+END
+synthetic_cassini1000.gsconfig
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/CSB/ClustEval/!svn/ver/928/trunk/repository/data/goldstandards/configs/synthetic_cassini1000.gsconfig
+END
+synthetic_ringnorm1000.gsconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/CSB/ClustEval/!svn/ver/928/trunk/repository/data/goldstandards/configs/synthetic_ringnorm1000.gsconfig
+END
+ppi_test.gsconfig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/CSB/ClustEval/!svn/ver/785/trunk/repository/data/goldstandards/configs/ppi_test.gsconfig
+END
+synthetic_circle1000.dsconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CSB/ClustEval/!svn/ver/919/trunk/repository/data/goldstandards/configs/synthetic_circle1000.dsconfig
+END
+cyano_1.gsconfig
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CSB/ClustEval/!svn/ver/785/trunk/repository/data/goldstandards/configs/cyano_1.gsconfig
+END
+synthetic_gaussian1000_5.gsconfig
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/CSB/ClustEval/!svn/ver/928/trunk/repository/data/goldstandards/configs/synthetic_gaussian1000_5.gsconfig
+END
+coli_authentic.gsconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/CSB/ClustEval/!svn/ver/785/trunk/repository/data/goldstandards/configs/coli_authentic.gsconfig
+END
+goldStandardConfigTest.gsconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/CSB/ClustEval/!svn/ver/785/trunk/repository/data/goldstandards/configs/goldStandardConfigTest.gsconfig
+END
+astral_2_161.gsconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/CSB/ClustEval/!svn/ver/785/trunk/repository/data/goldstandards/configs/astral_2_161.gsconfig
+END
+synthetic_cuboid1000.gsconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CSB/ClustEval/!svn/ver/928/trunk/repository/data/goldstandards/configs/synthetic_cuboid1000.gsconfig
+END
+coli_time.gsconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/CSB/ClustEval/!svn/ver/814/trunk/repository/data/goldstandards/configs/coli_time.gsconfig
+END
+matrixTest.gsconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/CSB/ClustEval/!svn/ver/785/trunk/repository/data/goldstandards/configs/matrixTest.gsconfig
+END
+test50_1.gsconfig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/CSB/ClustEval/!svn/ver/785/trunk/repository/data/goldstandards/configs/test50_1.gsconfig
+END
+ppi_scervisiae.gsconfig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/CSB/ClustEval/!svn/ver/785/trunk/repository/data/goldstandards/configs/ppi_scervisiae.gsconfig
+END
+synthetic_spirals1000.gsconfig
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/CSB/ClustEval/!svn/ver/928/trunk/repository/data/goldstandards/configs/synthetic_spirals1000.gsconfig
+END
+boneMarrowGeneExpr.gsconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/CSB/ClustEval/!svn/ver/785/trunk/repository/data/goldstandards/configs/boneMarrowGeneExpr.gsconfig
+END
+synthetic_simplex1000.gsconfig
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/CSB/ClustEval/!svn/ver/928/trunk/repository/data/goldstandards/configs/synthetic_simplex1000.gsconfig
+END
+goldStandardConfigTest2.gsconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/CSB/ClustEval/!svn/ver/785/trunk/repository/data/goldstandards/configs/goldStandardConfigTest2.gsconfig
+END
+ppi_mips.gsconfig
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/CSB/ClustEval/!svn/ver/785/trunk/repository/data/goldstandards/configs/ppi_mips.gsconfig
+END
+synthetic_hypercube1000.gsconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/CSB/ClustEval/!svn/ver/928/trunk/repository/data/goldstandards/configs/synthetic_hypercube1000.gsconfig
+END
+coli_need.gsconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/CSB/ClustEval/!svn/ver/785/trunk/repository/data/goldstandards/configs/coli_need.gsconfig
+END
+synthetic_cassini1000.dsconfig
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/CSB/ClustEval/!svn/ver/919/trunk/repository/data/goldstandards/configs/synthetic_cassini1000.dsconfig
+END
+synthetic_ringnorm1000.dsconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/CSB/ClustEval/!svn/ver/919/trunk/repository/data/goldstandards/configs/synthetic_ringnorm1000.dsconfig
+END
+coli_find.gsconfig
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/CSB/ClustEval/!svn/ver/823/trunk/repository/data/goldstandards/configs/coli_find.gsconfig
+END
+coli_state.gsconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/CSB/ClustEval/!svn/ver/785/trunk/repository/data/goldstandards/configs/coli_state.gsconfig
+END
+synthetic_gaussian1000_5.dsconfig
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/CSB/ClustEval/!svn/ver/919/trunk/repository/data/goldstandards/configs/synthetic_gaussian1000_5.dsconfig
+END
+synthetic_circle1000.gsconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CSB/ClustEval/!svn/ver/928/trunk/repository/data/goldstandards/configs/synthetic_circle1000.gsconfig
+END
+astral_1_161.gsconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/CSB/ClustEval/!svn/ver/785/trunk/repository/data/goldstandards/configs/astral_1_161.gsconfig
+END
+synthetic_cuboid1000.dsconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/CSB/ClustEval/!svn/ver/919/trunk/repository/data/goldstandards/configs/synthetic_cuboid1000.dsconfig
+END
+astral_1_171.gsconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/CSB/ClustEval/!svn/ver/785/trunk/repository/data/goldstandards/configs/astral_1_171.gsconfig
+END
+synthetic_spirals1000.dsconfig
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/CSB/ClustEval/!svn/ver/919/trunk/repository/data/goldstandards/configs/synthetic_spirals1000.dsconfig
+END
+DS1_1.gsconfig
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/CSB/ClustEval/!svn/ver/785/trunk/repository/data/goldstandards/configs/DS1_1.gsconfig
+END
+sfld_1.gsconfig
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/CSB/ClustEval/!svn/ver/785/trunk/repository/data/goldstandards/configs/sfld_1.gsconfig
+END
+synthetic_simplex1000.dsconfig
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/CSB/ClustEval/!svn/ver/919/trunk/repository/data/goldstandards/configs/synthetic_simplex1000.dsconfig
+END
+nora_cancer.gsconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/CSB/ClustEval/!svn/ver/785/trunk/repository/data/goldstandards/configs/nora_cancer.gsconfig
+END
+synthetic_hypercube1000.dsconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/CSB/ClustEval/!svn/ver/919/trunk/repository/data/goldstandards/configs/synthetic_hypercube1000.dsconfig
+END

@@ -1,0 +1,17 @@
+programConfig = TransClust_2,MCL_1,APcluster_1
+dataConfig = DS1
+qualityMeasures = TransClustF2ClusteringQualityMeasure,FDRClusteringQualityMeasure,FPRClusteringQualityMeasure,RandIndexClusteringQualityMeasure,SensitivityClusteringQualityMeasure,SpecificityClusteringQualityMeasure
+mode = parameter_optimization
+optimizationMethod = DivisiveParameterOptimizationMethod
+optimizationCriterion = TransClustF2ClusteringQualityMeasure
+optimizationIterations = 100
+
+[TransClust_2]
+optimizationParameters = T
+
+[MCL_1]
+optimizationParameters = I
+
+[APcluster_1]
+optimizationParameters = preference,dampfact,maxits,convits
+optimizationMethod = APDivisiveParameterOptimizationMethod

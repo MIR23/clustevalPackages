@@ -1,0 +1,10 @@
+programConfig = Spectral_Clustering
+dataConfig = ppi_scervisiae
+qualityMeasures = TransClustF2ClusteringQualityMeasure,FDRClusteringQualityMeasure,FPRClusteringQualityMeasure,RandIndexClusteringQualityMeasure,SensitivityClusteringQualityMeasure,SpecificityClusteringQualityMeasure
+mode = parameter_optimization
+optimizationMethod = DivisiveParameterOptimizationMethod
+optimizationCriterion = TransClustF2ClusteringQualityMeasure
+optimizationIterations = 10
+
+[Spectral_Clustering]
+optimizationParameters = k

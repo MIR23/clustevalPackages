@@ -1,0 +1,11 @@
+programConfig = TransClust_2
+dataConfig = ppi_mips
+qualityMeasures = TransClustF2ClusteringQualityMeasure
+#mode = internal_parameter_optimization
+mode = parameter_optimization
+optimizationMethod = DivisiveParameterOptimizationMethod
+optimizationCriterion = TransClustF2ClusteringQualityMeasure
+optimizationIterations = 101
+
+[TransClust_2]
+optimizationParameters = T

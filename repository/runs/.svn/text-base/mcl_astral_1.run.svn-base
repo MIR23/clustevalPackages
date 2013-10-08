@@ -1,0 +1,10 @@
+programConfig = MCL_1
+dataConfig = astral
+qualityMeasures = TransClustF2ClusteringQualityMeasure
+mode = parameter_optimization
+optimizationMethod = DivisiveParameterOptimizationMethod
+optimizationCriterion = TransClustF2ClusteringQualityMeasure
+optimizationIterations = 100
+
+[MCL_1]
+optimizationParameters = I

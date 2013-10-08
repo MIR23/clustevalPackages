@@ -1,0 +1,9 @@
+programConfig = TransClust_1
+dataConfig = DS1,test50
+qualityMeasures = TransClustF2ClusteringQualityMeasure
+
+[TransClust_1]
+minT = 0.0
+maxT = 1.0
+mode = 2
+tss = 0.01

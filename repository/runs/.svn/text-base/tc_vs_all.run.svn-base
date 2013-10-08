@@ -1,0 +1,10 @@
+programConfig = TransClust_2
+dataConfig = astral,astral_1_171,astral_2,boneMarrowGeneExpr,DS1,ppi_scervisiae,sfld_1,sfld_2
+qualityMeasures = TransClustF2ClusteringQualityMeasure
+mode = parameter_optimization
+optimizationMethod = LayeredDivisiveParameterOptimizationMethod
+optimizationCriterion = TransClustF2ClusteringQualityMeasure
+optimizationIterations = 100
+
+[TransClust_2]
+optimizationParameters = T

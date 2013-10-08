@@ -1,0 +1,237 @@
+Option: save
+Option: no-save
+Option: groups
+Option: pop
+Option: maxsame
+Option: no-prematch
+Option: no-workfiles
+Option: undirected
+Option: edgelist
+ReadNetworkEDGELIST: /home/chris/git/clustevalGraphMatch/clusteval/repository/results/08_02_2013-14_19_05_rashid/inputs/gedevo_rashid/rashid/N1.edgelist_gedevo.strip -> 14 connections (group 0)
+Option: edgelist
+ReadNetworkEDGELIST: /home/chris/git/clustevalGraphMatch/clusteval/repository/results/08_02_2013-14_19_05_rashid/inputs/gedevo_rashid/rashid/N2.edgelist_gedevo.strip -> 16 connections (group 1)
+Option: grsig
+ReadGraphletSigs: /home/chris/git/clustevalGraphMatch/clusteval/repository/results/08_02_2013-14_19_05_rashid/inputs/gedevo_rashid/rashid/N1.sigs_gedevo.strip -> 11
+Option: grsig
+ReadGraphletSigs: /home/chris/git/clustevalGraphMatch/clusteval/repository/results/08_02_2013-14_19_05_rashid/inputs/gedevo_rashid/rashid/N2.sigs_gedevo.strip -> 13
+ThreadPool: Detected 4 CPU cores
+ThreadPool start: 4 workers
+Worker thread #3 started.
+Group sizes: {name->Node} = [11, 13]
+Raw BLAST matrix size: 0
+Raw BLAST matrix group sizes: [0, 0]
+Total nodes prematched: 0
+Prepare: Everything good!
+Precalculating graphlet logs...
+Worker thread #2 started.
+Worker thread #1 started.
+Worker thread #0 started.
+Precalculating graphlet logs...
+Setting up connectivity matrix for group 0 ...
+
+[                                                  ]   0% (0/11)
+
+[====                                              ]   9% (1/11)
+
+[=========                                         ]  18% (2/11)
+
+[=============                                     ]  27% (3/11)
+
+[==================                                ]  36% (4/11)
+
+[======================                            ]  45% (5/11)
+
+[===========================                       ]  54% (6/11)
+
+[===============================                   ]  63% (7/11)
+
+[====================================              ]  72% (8/11)
+
+[========================================          ]  81% (9/11)
+
+[=============================================     ]  90% (10/11)
+
+[==================================================] 100% (11/11)
+Setting up connectivity matrix for group 1 ...
+
+[                                                  ]   0% (0/13)
+
+[===                                               ]   7% (1/13)
+
+[=======                                           ]  15% (2/13)
+
+[===========                                       ]  23% (3/13)
+
+[===============                                   ]  30% (4/13)
+
+[===================                               ]  38% (5/13)
+
+[=======================                           ]  46% (6/13)
+
+[==========================                        ]  53% (7/13)
+
+[==============================                    ]  61% (8/13)
+
+[==================================                ]  69% (9/13)
+
+[======================================            ]  76% (10/13)
+
+[==========================================        ]  84% (11/13)
+
+[==============================================    ]  92% (12/13)
+
+[==================================================] 100% (13/13)
+DataHolder: No BLAST data present, using dummy entries...
+DataHolder: Transferring connection lookup matrix, group 0 ...
+DataHolder: Generating inverted matrix...
+DataHolder: Transferring connection lookup matrix, group 1 ...
+DataHolder: Generating inverted matrix...
+DataHolder: Setting up node neighbors vector, group 0 ...
+DataHolder: Setting up node neighbors vector, group 1 ...
+DataHolder: First not prematched index: 0
+DataHolder: Graphs have only undirected edges, can use faster GED calculation.
+DataHolder: Total edge count: 30
+DataHolder: Worst GED score: 30.000000
+DataHolder: Precalculating node distance scores...
+
+[                                                  ]   0% (0/14)
+
+[===                                               ]   7% (1/14)
+
+[=======                                           ]  14% (2/14)
+
+[==========                                        ]  21% (3/14)
+
+[==============                                    ]  28% (4/14)
+
+[=================                                 ]  35% (5/14)
+
+[=====================                             ]  42% (6/14)
+
+[=========================                         ]  50% (7/14)
+
+[============================                      ]  57% (8/14)
+
+[================================                  ]  64% (9/14)
+
+[===================================               ]  71% (10/14)
+
+[=======================================           ]  78% (11/14)
+
+[==========================================        ]  85% (12/14)
+
+[==============================================    ]  92% (13/14)
+
+[==================================================] 100% (14/14)
+DataHolder: Setting up graphlet score lookup matrix (file: grsigs-1643252972.bin)...
+DataHolder: Precalculating graphlet scores...
+
+[                                                  ]   0% (0/14)
+
+[===                                               ]   7% (1/14)
+
+[=======                                           ]  14% (2/14)
+
+[==========                                        ]  21% (3/14)
+
+[==============                                    ]  28% (4/14)
+
+[=================                                 ]  35% (5/14)
+
+[=====================                             ]  42% (6/14)
+
+[=========================                         ]  50% (7/14)
+
+[============================                      ]  57% (8/14)
+
+[================================                  ]  64% (9/14)
+
+[===================================               ]  71% (10/14)
+
+[=======================================           ]  78% (11/14)
+
+[==========================================        ]  85% (12/14)
+
+[==============================================    ]  92% (13/14)
+
+[==================================================] 100% (14/14)
+DataHolder: Max variable  node ID: 11
+DataHolder: Max reference node ID: 13
+DataHolder: Max variable  node degree: 4
+DataHolder: Max reference node degree: 6
+DataHolder: variable edge amount: 14
+DataHolder: reference edge amount: 16
+DataHolder: Generating default mappings...
+DataHolder: Var group = 0, ref group = 1
+DataHolder: Precalculating BLAST & graphlets combined score...
+DataHolder: BLAST matrix cleared, no longer needed
+DataHolder: Done!
+State prepared and ready to go!
+Logging disabled.
+Doing some evolution...
+Done round #1, 200 agents alive
+ 0  GED: 0.733333, EC: 0.285714, PS: 0.266150, raw GED: [22, 0] (life: 1, DT: 0)
+ 1  GED: 0.800000, EC: 0.214286, PS: 0.357536, raw GED: [24, 0] (life: 1, DT: 15)
+ 2  GED: 0.800000, EC: 0.214286, PS: 0.363570, raw GED: [24, 0] (life: 1, DT: 15)
+ 3  GED: 0.800000, EC: 0.214286, PS: 0.357637, raw GED: [24, 0] (life: 1, DT: 11)
+ 4  GED: 0.866667, EC: 0.142857, PS: 0.414367, raw GED: [26, 0] (life: 1, DT: 18)
+Done round #2, 259 agents alive
+ 0  GED: 0.333333, EC: 0.714286, PS: 0.114472, raw GED: [10, 0] (life: 1, DT: 0)
+ 1  GED: 0.400000, EC: 0.642857, PS: 0.125437, raw GED: [12, 0] (life: 1, DT: 10)
+ 2  GED: 0.466667, EC: 0.571429, PS: 0.150455, raw GED: [14, 0] (life: 1, DT: 11)
+ 3  GED: 0.466667, EC: 0.571429, PS: 0.142773, raw GED: [14, 0] (life: 1, DT: 11)
+ 4  GED: 0.533333, EC: 0.500000, PS: 0.152209, raw GED: [16, 0] (life: 1, DT: 11)
+Done round #3, 299 agents alive
+ 0  GED: 0.333333, EC: 0.714286, PS: 0.114472, raw GED: [10, 0] (life: 2, DT: 0)
+ 1  GED: 0.333333, EC: 0.714286, PS: 0.109477, raw GED: [10, 0] (life: 1, DT: 9)
+ 2  GED: 0.333333, EC: 0.714286, PS: 0.114472, raw GED: [10, 0] (life: 1, DT: 0)
+ 3  GED: 0.333333, EC: 0.714286, PS: 0.117513, raw GED: [10, 0] (life: 1, DT: 9)
+ 4  GED: 0.400000, EC: 0.642857, PS: 0.125437, raw GED: [12, 0] (life: 1, DT: 10)
+Done round #4, 330 agents alive
+ 0  GED: 0.200000, EC: 0.857143, PS: 0.094643, raw GED: [6, 0] (life: 1, DT: 0)
+ 1  GED: 0.333333, EC: 0.714286, PS: 0.109477, raw GED: [10, 0] (life: 1, DT: 7)
+ 2  GED: 0.333333, EC: 0.714286, PS: 0.114472, raw GED: [10, 0] (life: 1, DT: 9)
+ 3  GED: 0.333333, EC: 0.714286, PS: 0.109477, raw GED: [10, 0] (life: 1, DT: 7)
+ 4  GED: 0.333333, EC: 0.714286, PS: 0.117513, raw GED: [10, 0] (life: 1, DT: 9)
+Done round #5, 339 agents alive
+ 0  GED: 0.200000, EC: 0.857143, PS: 0.094643, raw GED: [6, 0] (life: 2, DT: 0)
+ 1  GED: 0.200000, EC: 0.857143, PS: 0.094643, raw GED: [6, 0] (life: 1, DT: 0)
+ 2  GED: 0.200000, EC: 0.857143, PS: 0.094643, raw GED: [6, 0] (life: 1, DT: 2)
+ 3  GED: 0.200000, EC: 0.857143, PS: 0.094643, raw GED: [6, 0] (life: 1, DT: 0)
+ 4  GED: 0.200000, EC: 0.857143, PS: 0.094643, raw GED: [6, 0] (life: 1, DT: 2)
+Done round #6, 348 agents alive
+ 0  GED: 0.200000, EC: 0.857143, PS: 0.094643, raw GED: [6, 0] (life: 1, DT: 0)
+ 1  GED: 0.200000, EC: 0.857143, PS: 0.094643, raw GED: [6, 0] (life: 1, DT: 2)
+ 2  GED: 0.200000, EC: 0.857143, PS: 0.094643, raw GED: [6, 0] (life: 1, DT: 2)
+ 3  GED: 0.200000, EC: 0.857143, PS: 0.094643, raw GED: [6, 0] (life: 1, DT: 3)
+ 4  GED: 0.200000, EC: 0.857143, PS: 0.094643, raw GED: [6, 0] (life: 1, DT: 2)
+Done round #7, 343 agents alive
+ 0  GED: 0.133333, EC: 0.928571, PS: 0.078709, raw GED: [4, 0] (life: 1, DT: 0)
+ 1  GED: 0.133333, EC: 0.928571, PS: 0.078709, raw GED: [4, 0] (life: 1, DT: 0)
+ 2  GED: 0.133333, EC: 0.928571, PS: 0.078709, raw GED: [4, 0] (life: 1, DT: 2)
+ 3  GED: 0.200000, EC: 0.857143, PS: 0.134033, raw GED: [6, 0] (life: 1, DT: 2)
+ 4  GED: 0.200000, EC: 0.857143, PS: 0.094643, raw GED: [6, 0] (life: 1, DT: 2)
+Done round #8, 340 agents alive
+ 0  GED: 0.133333, EC: 0.928571, PS: 0.078709, raw GED: [4, 0] (life: 1, DT: 0)
+ 1  GED: 0.133333, EC: 0.928571, PS: 0.078709, raw GED: [4, 0] (life: 1, DT: 2)
+ 2  GED: 0.133333, EC: 0.928571, PS: 0.078709, raw GED: [4, 0] (life: 1, DT: 2)
+ 3  GED: 0.133333, EC: 0.928571, PS: 0.078709, raw GED: [4, 0] (life: 1, DT: 0)
+ 4  GED: 0.133333, EC: 0.928571, PS: 0.078709, raw GED: [4, 0] (life: 1, DT: 0)
+Done round #9, 340 agents alive
+ 0  GED: 0.066667, EC: 1.000000, PS: 0.063132, raw GED: [2, 0] (life: 1, DT: 0)
+ 1  GED: 0.066667, EC: 1.000000, PS: 0.063132, raw GED: [2, 0] (life: 1, DT: 2)
+ 2  GED: 0.133333, EC: 0.928571, PS: 0.078709, raw GED: [4, 0] (life: 1, DT: 4)
+ 3  GED: 0.133333, EC: 0.928571, PS: 0.078709, raw GED: [4, 0] (life: 1, DT: 6)
+ 4  GED: 0.133333, EC: 0.928571, PS: 0.078709, raw GED: [4, 0] (life: 1, DT: 4)
+Done! Found perfect solution after 9 iterations.
+ProgramState: Shutdown...
+Writing results to '/home/chris/git/clustevalGraphMatch/clusteval/repository/results/08_02_2013-14_19_05_rashid/clusters/gedevo_rashid.1.results.matching' ...
+ProgramState: Shutdown complete.
+ThreadPool: Join thread #0
+Worker thread #3 exiting.
+Worker thread #2 exiting.
+Worker thread #1 exiting.
+Worker thread #0 exiting.
+ThreadPool: Join thread #1
+ThreadPool: Join thread #2
+ThreadPool: Join thread #3

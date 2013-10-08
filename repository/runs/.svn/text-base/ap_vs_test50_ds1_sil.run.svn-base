@@ -1,0 +1,11 @@
+programConfig = APcluster_1
+dataConfig = test50,DS1
+qualityMeasures = SilhouetteValueRClusteringQualityMeasure
+mode = parameter_optimization
+optimizationMethod = DivisiveParameterOptimizationMethod
+optimizationCriterion = SilhouetteValueRClusteringQualityMeasure
+optimizationIterations = 1001
+
+[APcluster_1]
+optimizationParameters = preference,maxits,convits,dampfact
+optimizationMethod = APDivisiveParameterOptimizationMethod

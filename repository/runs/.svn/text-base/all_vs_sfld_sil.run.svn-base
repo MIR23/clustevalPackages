@@ -1,0 +1,17 @@
+programConfig = TransClust_2,APcluster_1,MCL_1
+dataConfig = sfld_1
+qualityMeasures = SilhouetteValueRClusteringQualityMeasure
+mode = parameter_optimization
+optimizationMethod = DivisiveParameterOptimizationMethod
+optimizationCriterion = SilhouetteValueRClusteringQualityMeasure
+optimizationIterations = 100
+
+[TransClust_2]
+optimizationParameters = T
+
+[MCL_1]
+optimizationParameters = I
+
+[APcluster_1]
+optimizationParameters = preference,dampfact,maxits,convits
+optimizationMethod = APParameterOptimizationMethod

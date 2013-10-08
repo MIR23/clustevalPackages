@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/CSB/ClustEval/!svn/ver/1209/trunk/repository/programs
+END
+FannyClusteringRProgram.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/CSB/ClustEval/!svn/ver/1209/trunk/repository/programs/FannyClusteringRProgram.jar
+END
+SpectralClusteringRProgram.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/CSB/ClustEval/!svn/ver/1209/trunk/repository/programs/SpectralClusteringRProgram.jar
+END
+HierarchicalClusteringRProgram.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/CSB/ClustEval/!svn/ver/1209/trunk/repository/programs/HierarchicalClusteringRProgram.jar
+END
+KMeansClusteringRProgram.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/CSB/ClustEval/!svn/ver/1209/trunk/repository/programs/KMeansClusteringRProgram.jar
+END

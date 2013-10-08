@@ -1,0 +1,16 @@
+groups = N1,N2
+
+[gml1]
+datasetName = rashid
+datasetFile = VZV.gml
+groupName = N1
+
+[gml2]
+datasetName = rashid
+datasetFile = EBV.gml
+groupName = N2
+
+[seqsim1]
+datasetName = rashid
+datasetFile = EBV_vs_VZV.pin
+groupName = N1

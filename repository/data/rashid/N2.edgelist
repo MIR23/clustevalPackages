@@ -1,0 +1,20 @@
+// alias = graph_N2
+// dataSetFormat = EdgeListDataSetFormat
+// dataSetType = GeneExpressionDataSetType
+// dataSetFormatVersion = 1
+xA	xB
+xA	xC
+xA	xD
+xB	xE
+xC	xE
+xC	xF
+xD	xG
+xD	xF
+xE	xH
+xF	xH
+xG	xI
+xH	xJ
+xI	xJ
+xA	xZ
+xA	xX
+xA	xY

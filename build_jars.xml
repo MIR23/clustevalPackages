@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="create_jars" name="Create loadable jars for framework">
+	<target name="create_jars" depends="create_quality_jars,create_optimMethod_jars,create_datasetFormat_jars,create_datasetTypes_jars,create_runresultFormat_jars,create_dataStatistic_jars,create_rprogram_jars,create_distanceMeasure_jars,create_runStatistic_jars,create_runDataStatistic_jars,create_datasetGenerator_jars,create_preprocessors_jars,create_context_jars">
+	</target>
+
+	<target name="create_quality_jars">
+		<echo>Create quality measure jars...</echo>
+		<jar destfile="repository/supp/clustering/qualityMeasures/AlignedEdgesQualityMeasure.jar">
+			<fileset dir="bin" includes="**/AlignedEdgesQualityMeasure.class" />
+			<fileset dir="src" includes="**/AlignedEdgesQualityMeasure.java" />
+		</jar>
+		<jar destfile="repository/supp/clustering/qualityMeasures/GraphEditDistanceQualityMeasure.jar">
+			<fileset dir="bin" includes="**/GraphEditDistanceQualityMeasure.class" />
+			<fileset dir="src" includes="**/GraphEditDistanceQualityMeasure.java" />
+		</jar>
+		<jar destfile="repository/supp/clustering/qualityMeasures/EdgeCorrectnessQualityMeasure.jar">
+			<fileset dir="bin" includes="**/EdgeCorrectnessQualityMeasure.class" />
+			<fileset dir="src" includes="**/EdgeCorrectnessQualityMeasure.java" />
+		</jar>
+		<jar destfile="repository/supp/clustering/qualityMeasures/C_1PrimeQualityMeasure.jar">
+			<fileset dir="bin" includes="**/C_1PrimeQualityMeasure.class" />
+			<fileset dir="src" includes="**/C_1PrimeQualityMeasure.java" />
+		</jar>
+		<jar destfile="repository/supp/clustering/qualityMeasures/C_1QualityMeasure.jar">
+			<fileset dir="bin" includes="**/C_1QualityMeasure.class" />
+			<fileset dir="src" includes="**/C_1QualityMeasure.java" />
+		</jar>
+		<jar destfile="repository/supp/clustering/qualityMeasures/LTwoCompactnessQualityMeasure.jar">
+			<fileset dir="bin" includes="**/LTwoCompactnessQualityMeasure.class" />
+			<fileset dir="src" includes="**/LTwoCompactnessQualityMeasure.java" />
+		</jar>
+	</target>
+
+	<target name="create_optimMethod_jars">
+		<echo>Create optimization method jars...</echo>
+		<jar destfile="repository/supp/clustering/paramOptimization/DivisiveParameterOptimizationMethod.jar">
+			<fileset dir="bin" includes="**/DivisiveParameterOptimizationMethod.class" />
+			<fileset dir="src" includes="**/DivisiveParameterOptimizationMethod.java" />
+		</jar>
+		<jar destfile="repository/supp/clustering/paramOptimization/LayeredDivisiveParameterOptimizationMethod.jar">
+			<fileset dir="bin" includes="**/LayeredDivisiveParameterOptimizationMethod.class" />
+			<fileset dir="src" includes="**/LayeredDivisiveParameterOptimizationMethod.java" />
+		</jar>
+	</target>
+
+	<target name="create_preprocessors_jars">
+		<echo>Create data preprocessor jars...</echo>
+	</target>
+
+	<target name="create_context_jars">
+		<echo>Create context jars...</echo>
+		<jar destfile="repository/supp/contexts/GraphMatchingContext.jar">
+			<fileset dir="bin" includes="**/GraphMatchingContext.class" />
+			<fileset dir="src" includes="**/GraphMatchingContext.java" />
+		</jar>
+	</target>
+
+	<target name="create_datasetGenerator_jars">
+		<echo>Create dataset generator jars...</echo>
+	</target>
+
+	<target name="create_datasetFormat_jars">
+		<echo>Create dataset format jars...</echo>
+		<jar destfile="repository/supp/formats/dataset/EdgeListDataSetFormat.jar">
+			<fileset dir="bin" includes="**/EdgeListDataSetFormat*.class" />
+			<fileset dir="src" includes="**/EdgeListDataSetFormat*.java" />
+		</jar>
+		<jar destfile="repository/supp/formats/dataset/EdgeListHDataSetFormat.jar">
+			<fileset dir="bin" includes="**/EdgeListHDataSetFormat*.class" />
+			<fileset dir="src" includes="**/EdgeListHDataSetFormat*.java" />
+		</jar>
+		<jar destfile="repository/supp/formats/dataset/GMLDataSetFormat.jar">
+			<fileset dir="bin" includes="**/GMLDataSetFormat*.class" />
+			<fileset dir="src" includes="**/GMLDataSetFormat*.java" />
+		</jar>
+		<jar destfile="repository/supp/formats/dataset/GwLEDADataSetFormat.jar">
+			<fileset dir="bin" includes="**/GwLEDADataSetFormat*.class" />
+			<fileset dir="src" includes="**/GwLEDADataSetFormat*.java" />
+		</jar>
+		<jar destfile="repository/supp/formats/dataset/PDataSetFormat.jar">
+			<fileset dir="bin" includes="**/PDataSetFormat*.class" />
+			<fileset dir="src" includes="**/PDataSetFormat*.java" />
+		</jar>
+		<jar destfile="repository/supp/formats/dataset/PINDataSetFormat.jar">
+			<fileset dir="bin" includes="**/PINDataSetFormat*.class" />
+			<fileset dir="src" includes="**/PINDataSetFormat*.java" />
+		</jar>
+		<jar destfile="repository/supp/formats/dataset/SeqSimDataSetFormat.jar">
+			<fileset dir="bin" includes="**/SeqSimDataSetFormat*.class" />
+			<fileset dir="src" includes="**/SeqSimDataSetFormat*.java" />
+		</jar>
+		<jar destfile="repository/supp/formats/dataset/NodeSignatureDataSetFormat.jar">
+			<fileset dir="bin" includes="**/NodeSignatureDataSetFormat*.class" />
+			<fileset dir="src" includes="**/NodeSignatureDataSetFormat*.java" />
+		</jar>
+	</target>
+
+	<target name="create_datasetTypes_jars">
+		<echo>Create dataset type jars...</echo>
+		<jar destfile="repository/supp/types/dataset/GeneExpressionDataSetType.jar">
+			<fileset dir="bin" includes="**/GeneExpressionDataSetType*.class" />
+			<fileset dir="src" includes="**/GeneExpressionDataSetType*.java" />
+		</jar>
+	</target>
+
+	<target name="create_distanceMeasure_jars">
+		<echo>Create distance measure jars...</echo>
+	</target>
+
+	<target name="create_runresultFormat_jars">
+		<echo>Create runresult format jars...</echo>
+		<jar destfile="repository/supp/formats/runresult/GedevoRunResultFormat.jar">
+			<fileset dir="bin" includes="**/GedevoRunResultFormat*.class" />
+			<fileset dir="src" includes="**/GedevoRunResultFormat*.java" />
+		</jar>
+		<jar destfile="repository/supp/formats/runresult/MigraalRunResultFormat.jar">
+			<fileset dir="bin" includes="**/MigraalRunResultFormat*.class" />
+			<fileset dir="src" includes="**/MigraalRunResultFormat*.java" />
+		</jar>
+		<jar destfile="repository/supp/formats/runresult/CgraalRunResultFormat.jar">
+			<fileset dir="bin" includes="**/CgraalRunResultFormat*.class" />
+			<fileset dir="src" includes="**/CgraalRunResultFormat*.java" />
+		</jar>
+		<jar destfile="repository/supp/formats/runresult/NetalRunResultFormat.jar">
+					<fileset dir="bin" includes="**/NetalRunResultFormat*.class" />
+					<fileset dir="src" includes="**/NetalRunResultFormat*.java" />
+		</jar>
+		<jar destfile="repository/supp/formats/runresult/SpinalRunResultFormat.jar">
+			<fileset dir="bin" includes="**/SpinalRunResultFormat*.class" />
+			<fileset dir="src" includes="**/SpinalRunResultFormat*.java" />
+		</jar>
+		<jar destfile="repository/supp/formats/runresult/TabSepGraphMatchingRunResultFormat.jar">
+			<fileset dir="bin" includes="**/TabSepGraphMatchingRunResultFormat*.class" />
+			<fileset dir="src" includes="**/TabSepGraphMatchingRunResultFormat*.java" />
+		</jar>
+	</target>
+
+	<target name="create_dataStatistic_jars">
+		<echo>Create data statistic jars...</echo>
+	</target>
+
+	<target name="create_runStatistic_jars">
+	</target>
+
+	<target name="create_runDataStatistic_jars">
+	</target>
+
+	<target name="create_rprogram_jars">
+		<echo>Create RProgram jars...</echo>
+	</target>
+</project>

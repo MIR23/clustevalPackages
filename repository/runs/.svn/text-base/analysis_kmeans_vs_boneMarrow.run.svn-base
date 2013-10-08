@@ -1,0 +1,6 @@
+#uniqueRunIdentifiers = 08_20_2012-14_59_14_kmeans_vs_boneMarrow
+uniqueRunIdentifiers = 08_23_2012-15_06_15_tc_vs_all 
+#uniqueDataIdentifiers = 08_21_2012-19_24_33_analysis_boneMarrow
+uniqueDataIdentifiers = 08_23_2012-15_36_09_analysis_all
+mode = runDataAnalysis
+runDataStatistics = LinearModelRunDataStatistic

@@ -1,0 +1,11 @@
+programConfig = KMeans_Clustering
+dataConfig = boneMarrowGeneExpr
+qualityMeasures = SilhouetteValueRClusteringQualityMeasure,TransClustF2ClusteringQualityMeasure,FDRClusteringQualityMeasure,FPRClusteringQualityMeasure,RandIndexClusteringQualityMeasure,SensitivityClusteringQualityMeasure,SpecificityClusteringQualityMeasure
+mode = parameter_optimization
+optimizationMethod = LayeredDivisiveParameterOptimizationMethod
+optimizationCriterion = TransClustF2ClusteringQualityMeasure
+optimizationIterations = 1001
+
+[KMeans_Clustering]
+optimizationParameters = k
+optimizationMethod = GapStatisticParameterOptimizationMethod

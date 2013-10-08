@@ -1,0 +1,23 @@
+programConfig = Fanny_Clustering
+dataConfig = ppi_mips
+qualityMeasures = SilhouetteValueRClusteringQualityMeasure,TransClustF2ClusteringQualityMeasure,FDRClusteringQualityMeasure,FPRClusteringQualityMeasure,RandIndexClusteringQualityMeasure,SensitivityClusteringQualityMeasure,SpecificityClusteringQualityMeasure 
+mode = parameter_optimization
+optimizationMethod = LayeredDivisiveParameterOptimizationMethod
+optimizationCriterion = TransClustF2ClusteringQualityMeasure
+optimizationIterations = 101
+
+[TransClust_2]
+optimizationParameters = T
+
+[MCL_1]
+optimizationParameters = I
+
+[APcluster_1]
+optimizationParameters = preference,dampfact,maxits,convits
+optimizationMethod = APParameterOptimizationMethod
+
+[Hierarchical_Clustering]
+optimizationParameters = k
+
+[Spectral_Clustering]
+optimizationParameters = k

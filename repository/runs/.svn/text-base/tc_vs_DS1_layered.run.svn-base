@@ -1,0 +1,10 @@
+programConfig = TransClust_2
+dataConfig = DS1
+qualityMeasures = TransClustF2ClusteringQualityMeasure
+mode = parameter_optimization
+optimizationMethod = LayeredDivisiveParameterOptimizationMethod
+optimizationCriterion = TransClustF2ClusteringQualityMeasure
+optimizationIterations = 100
+
+[TransClust_2]
+optimizationParameters = T

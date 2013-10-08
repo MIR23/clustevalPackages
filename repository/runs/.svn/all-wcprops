@@ -1,0 +1,731 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/CSB/ClustEval/!svn/ver/1176/trunk/repository/runs
+END
+analysis_synthetic.run
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/CSB/ClustEval/!svn/ver/919/trunk/repository/runs/analysis_synthetic.run
+END
+tc_vs_coli_time_opt_silQual.run
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/CSB/ClustEval/!svn/ver/814/trunk/repository/runs/tc_vs_coli_time_opt_silQual.run
+END
+tc_vs_ppi_mips.run
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/tc_vs_ppi_mips.run
+END
+all_vs_mips_ppi_layered_opt_tcQual.run
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/CSB/ClustEval/!svn/ver/812/trunk/repository/runs/all_vs_mips_ppi_layered_opt_tcQual.run
+END
+tc_vs_DS1_internal.run
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/tc_vs_DS1_internal.run
+END
+all_vs_coli_need.run
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/all_vs_coli_need.run
+END
+all_vs_sfld_divisive_opt_tcQual.run
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/CSB/ClustEval/!svn/ver/809/trunk/repository/runs/all_vs_sfld_divisive_opt_tcQual.run
+END
+tc_vs_boneMarrow_opt_silQual.run
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/CSB/ClustEval/!svn/ver/805/trunk/repository/runs/tc_vs_boneMarrow_opt_silQual.run
+END
+tc_vs_ppi_test.run
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/tc_vs_ppi_test.run
+END
+tc_vs_nora_abs_BRCA_opt_silQual.run
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/CSB/ClustEval/!svn/ver/936/trunk/repository/runs/tc_vs_nora_abs_BRCA_opt_silQual.run
+END
+all_vs_synthetic_divisive_opt_silQual.run
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/CSB/ClustEval/!svn/ver/919/trunk/repository/runs/all_vs_synthetic_divisive_opt_silQual.run
+END
+all_vs_boneMarrow_divisive_opt_silQual.run
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/CSB/ClustEval/!svn/ver/887/trunk/repository/runs/all_vs_boneMarrow_divisive_opt_silQual.run
+END
+all_vs_coli_authentic.run
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/all_vs_coli_authentic.run
+END
+tc_vs_mips_ppi_opt_silQual.run
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/CSB/ClustEval/!svn/ver/813/trunk/repository/runs/tc_vs_mips_ppi_opt_silQual.run
+END
+all_vs_nora_abs_GBM_layered_opt_silQual.run
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/CSB/ClustEval/!svn/ver/937/trunk/repository/runs/all_vs_nora_abs_GBM_layered_opt_silQual.run
+END
+all_vs_test50_sil.run
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/all_vs_test50_sil.run
+END
+test_without_gs.run
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/test_without_gs.run
+END
+all_vs_nora_abs_LUSC_layered_opt_silQual.run
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/CSB/ClustEval/!svn/ver/937/trunk/repository/runs/all_vs_nora_abs_LUSC_layered_opt_silQual.run
+END
+fanny_vs_sfld.run
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/CSB/ClustEval/!svn/ver/1176/trunk/repository/runs/fanny_vs_sfld.run
+END
+DS1_vmeasure.run
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/CSB/ClustEval/!svn/ver/1176/trunk/repository/runs/DS1_vmeasure.run
+END
+1.run
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/1.run
+END
+2.run
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/2.run
+END
+mcl_astral_1.run
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/mcl_astral_1.run
+END
+all_vs_coli_time_divisive_opt_tcQual.run
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/CSB/ClustEval/!svn/ver/814/trunk/repository/runs/all_vs_coli_time_divisive_opt_tcQual.run
+END
+analysis_astral1_171.run
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/analysis_astral1_171.run
+END
+3.run
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/3.run
+END
+tc_vs_all.run
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/tc_vs_all.run
+END
+ap_vs_all_sil.run
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/ap_vs_all_sil.run
+END
+analysis_ppi_scervisiae.run
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/analysis_ppi_scervisiae.run
+END
+analysis_sfld_1.run
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/analysis_sfld_1.run
+END
+all_vs_boneMarrow_layered_opt_tcQual.run
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/CSB/ClustEval/!svn/ver/805/trunk/repository/runs/all_vs_boneMarrow_layered_opt_tcQual.run
+END
+all_vs_all_sil.run
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/all_vs_all_sil.run
+END
+hclust_vs_DS1.run
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/hclust_vs_DS1.run
+END
+APcluster_1.run
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/APcluster_1.run
+END
+tc_vs_nora_abs_LUSC_opt_silQual.run
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/CSB/ClustEval/!svn/ver/936/trunk/repository/runs/tc_vs_nora_abs_LUSC_opt_silQual.run
+END
+all_vs_DS1.run
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/CSB/ClustEval/!svn/ver/928/trunk/repository/runs/all_vs_DS1.run
+END
+analysis_boneMarrow_absDist.run
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/CSB/ClustEval/!svn/ver/825/trunk/repository/runs/analysis_boneMarrow_absDist.run
+END
+all_vs_nora_abs_GBM_divisive_opt_silQual.run
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/CSB/ClustEval/!svn/ver/936/trunk/repository/runs/all_vs_nora_abs_GBM_divisive_opt_silQual.run
+END
+all_vs_sfld_layered_opt_tcQual.run
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/CSB/ClustEval/!svn/ver/809/trunk/repository/runs/all_vs_sfld_layered_opt_tcQual.run
+END
+analysis_DS1.run
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/analysis_DS1.run
+END
+all_vs_boneMarrow_layered_opt_silQual.run
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/CSB/ClustEval/!svn/ver/805/trunk/repository/runs/all_vs_boneMarrow_layered_opt_silQual.run
+END
+tc_vs_coli_time_opt_tcQual.run
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/CSB/ClustEval/!svn/ver/814/trunk/repository/runs/tc_vs_coli_time_opt_tcQual.run
+END
+all_vs_astral_1_171.run
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/all_vs_astral_1_171.run
+END
+all_vs_mips_ppi_divisive_opt_silQual.run
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/CSB/ClustEval/!svn/ver/812/trunk/repository/runs/all_vs_mips_ppi_divisive_opt_silQual.run
+END
+hclust_vs_ppi_scervisiae.run
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/hclust_vs_ppi_scervisiae.run
+END
+all_vs_mips_ppi_layered_opt_silQual.run
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/CSB/ClustEval/!svn/ver/812/trunk/repository/runs/all_vs_mips_ppi_layered_opt_silQual.run
+END
+tc_vs_sfld_opt_silQual.run
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/CSB/ClustEval/!svn/ver/809/trunk/repository/runs/tc_vs_sfld_opt_silQual.run
+END
+analysis_nora_cancer_abs.run
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/CSB/ClustEval/!svn/ver/938/trunk/repository/runs/analysis_nora_cancer_abs.run
+END
+all_vs_coli_time_layered_opt_tcQual.run
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/CSB/ClustEval/!svn/ver/814/trunk/repository/runs/all_vs_coli_time_layered_opt_tcQual.run
+END
+all_vs_astral_2_161_sil.run
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/all_vs_astral_2_161_sil.run
+END
+tc_vs_astral_1_quantile.run
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/tc_vs_astral_1_quantile.run
+END
+all_vs_coli_find_layered_opt_silQual.run
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/CSB/ClustEval/!svn/ver/821/trunk/repository/runs/all_vs_coli_find_layered_opt_silQual.run
+END
+tc_vs_mips_ppi_opt_tcQual.run
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/CSB/ClustEval/!svn/ver/813/trunk/repository/runs/tc_vs_mips_ppi_opt_tcQual.run
+END
+analysis_mips.run
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/CSB/ClustEval/!svn/ver/1063/trunk/repository/runs/analysis_mips.run
+END
+analysis_boneMarrow_hoeffdingDist.run
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/CSB/ClustEval/!svn/ver/824/trunk/repository/runs/analysis_boneMarrow_hoeffdingDist.run
+END
+kmeans_vs_boneMarrow_opt_tcQual.run
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/CSB/ClustEval/!svn/ver/805/trunk/repository/runs/kmeans_vs_boneMarrow_opt_tcQual.run
+END
+analysis_boneMarrow.run
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/analysis_boneMarrow.run
+END
+tc_sfld.run
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/tc_sfld.run
+END
+tc_vs_coli_find_opt_tcQual.run
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/CSB/ClustEval/!svn/ver/821/trunk/repository/runs/tc_vs_coli_find_opt_tcQual.run
+END
+analysis_nora_cancer_abs_lusc_hopkins.run
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/analysis_nora_cancer_abs_lusc_hopkins.run
+END
+test50.run
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/test50.run
+END
+tc_vs_DS1.run
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/tc_vs_DS1.run
+END
+all_vs_coli_find_layered_opt_tcQual.run
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/CSB/ClustEval/!svn/ver/821/trunk/repository/runs/all_vs_coli_find_layered_opt_tcQual.run
+END
+all_vs_DS1_clustering.run
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/all_vs_DS1_clustering.run
+END
+all_vs_nora_abs_LUSC_divisive_opt_silQual.run
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/CSB/ClustEval/!svn/ver/936/trunk/repository/runs/all_vs_nora_abs_LUSC_divisive_opt_silQual.run
+END
+all_vs_sfld.run
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/CSB/ClustEval/!svn/ver/804/trunk/repository/runs/all_vs_sfld.run
+END
+all_vs_nora_abs_BRCA_divisive_opt_silQual.run
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/CSB/ClustEval/!svn/ver/936/trunk/repository/runs/all_vs_nora_abs_BRCA_divisive_opt_silQual.run
+END
+tc_vs_DS1_layered.run
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/tc_vs_DS1_layered.run
+END
+tc_vs_astral_sil.run
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/tc_vs_astral_sil.run
+END
+all_vs_synthetic_layered_opt_silQual.run
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/CSB/ClustEval/!svn/ver/919/trunk/repository/runs/all_vs_synthetic_layered_opt_silQual.run
+END
+all_vs_all_f1.run
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/all_vs_all_f1.run
+END
+all_vs_DS1_sil.run
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/all_vs_DS1_sil.run
+END
+tc_vs_coli_find_opt_silQual.run
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/CSB/ClustEval/!svn/ver/821/trunk/repository/runs/tc_vs_coli_find_opt_silQual.run
+END
+analysis_nora.run
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/analysis_nora.run
+END
+analysis_08_20_2012-14_59_14_kmeans_vs_boneMarrow.run
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/analysis_08_20_2012-14_59_14_kmeans_vs_boneMarrow.run
+END
+tc_vs_ppi_scervisiae.run
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/tc_vs_ppi_scervisiae.run
+END
+tc_vs_astral_1.run
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/tc_vs_astral_1.run
+END
+tc_vs_ppi_krogan_scervisiae.run
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/tc_vs_ppi_krogan_scervisiae.run
+END
+tc_vs_boneMarrow_opt_tcQual.run
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/CSB/ClustEval/!svn/ver/805/trunk/repository/runs/tc_vs_boneMarrow_opt_tcQual.run
+END
+cyano_hopkins.run
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/cyano_hopkins.run
+END
+all_vs_arthur.run
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/all_vs_arthur.run
+END
+all_vs_sfld_divisive_opt_silQual.run
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/CSB/ClustEval/!svn/ver/809/trunk/repository/runs/all_vs_sfld_divisive_opt_silQual.run
+END
+all_vs_boneMarrow_divisive_opt_tcQual.run
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/CSB/ClustEval/!svn/ver/887/trunk/repository/runs/all_vs_boneMarrow_divisive_opt_tcQual.run
+END
+spec_vs_DS1.run
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/spec_vs_DS1.run
+END
+all_vs_sfld_layered_opt_silQual.run
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/CSB/ClustEval/!svn/ver/809/trunk/repository/runs/all_vs_sfld_layered_opt_silQual.run
+END
+kmeans_vs_matrixTest.run
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/kmeans_vs_matrixTest.run
+END
+all_vs_synthetic_layered_opt_tcQual.run
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/CSB/ClustEval/!svn/ver/919/trunk/repository/runs/all_vs_synthetic_layered_opt_tcQual.run
+END
+all_vs_nora_abs_BRCA.run
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/all_vs_nora_abs_BRCA.run
+END
+all_vs_mips_ppi_divisive_opt_tcQual.run
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/CSB/ClustEval/!svn/ver/812/trunk/repository/runs/all_vs_mips_ppi_divisive_opt_tcQual.run
+END
+tc_vs_sfld_opt_tcQual.run
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/CSB/ClustEval/!svn/ver/809/trunk/repository/runs/tc_vs_sfld_opt_tcQual.run
+END
+all_vs_coli_time_divisive_opt_silQual.run
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/CSB/ClustEval/!svn/ver/814/trunk/repository/runs/all_vs_coli_time_divisive_opt_silQual.run
+END
+all_vs_coli_find_divisive_opt_tcQual.run
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/CSB/ClustEval/!svn/ver/821/trunk/repository/runs/all_vs_coli_find_divisive_opt_tcQual.run
+END
+tc_vs_nora_abs_GBM_opt_silQual.run
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/CSB/ClustEval/!svn/ver/936/trunk/repository/runs/tc_vs_nora_abs_GBM_opt_silQual.run
+END
+analysis_kmeans_vs_boneMarrow.run
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/analysis_kmeans_vs_boneMarrow.run
+END
+all_vs_test50.run
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/all_vs_test50.run
+END
+tc_sfld_sil.run
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/tc_sfld_sil.run
+END
+all_vs_coli_time_layered_opt_silQual.run
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/CSB/ClustEval/!svn/ver/814/trunk/repository/runs/all_vs_coli_time_layered_opt_silQual.run
+END
+all_vs_coli_state.run
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/all_vs_coli_state.run
+END
+spec_vs_ppi_scervisiae.run
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/spec_vs_ppi_scervisiae.run
+END
+analysis_boneMarrow_spearmanDist.run
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/CSB/ClustEval/!svn/ver/824/trunk/repository/runs/analysis_boneMarrow_spearmanDist.run
+END
+analysis_matrixTest2.run
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/analysis_matrixTest2.run
+END
+analysis_boneMarrow_pearsonDist.run
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/CSB/ClustEval/!svn/ver/824/trunk/repository/runs/analysis_boneMarrow_pearsonDist.run
+END
+ap_vs_test50_ds1_sil.run
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/ap_vs_test50_ds1_sil.run
+END
+all_vs_nora_abs_BRCA_layered_opt_silQual.run
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/CSB/ClustEval/!svn/ver/937/trunk/repository/runs/all_vs_nora_abs_BRCA_layered_opt_silQual.run
+END
+all_vs_astral_sil.run
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/all_vs_astral_sil.run
+END
+all_vs_nora_expr.run
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/all_vs_nora_expr.run
+END
+kmeans_vs_boneMarrow_opt_silQual.run
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/CSB/ClustEval/!svn/ver/928/trunk/repository/runs/kmeans_vs_boneMarrow_opt_silQual.run
+END
+all_vs_sfld_sil.run
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/all_vs_sfld_sil.run
+END
+all_vs_nora.run
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/all_vs_nora.run
+END
+tc_vs_matrixTest.run
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/tc_vs_matrixTest.run
+END
+all_vs_coli_find_divisive_opt_silQual.run
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/CSB/ClustEval/!svn/ver/821/trunk/repository/runs/all_vs_coli_find_divisive_opt_silQual.run
+END
+all_vs_ppi_scervisiae.run
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/all_vs_ppi_scervisiae.run
+END
+all_vs_astral_1.run
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/all_vs_astral_1.run
+END
+all_vs_synthetic_divisive_opt_tcQual.run
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/CSB/ClustEval/!svn/ver/919/trunk/repository/runs/all_vs_synthetic_divisive_opt_tcQual.run
+END
+analysis_arthur.run
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/analysis_arthur.run
+END
+all_vs_all.run
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/all_vs_all.run
+END
+all_vs_nora_abs_GBM.run
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/all_vs_nora_abs_GBM.run
+END
+all_vs_nora_abs_LUSC.run
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/all_vs_nora_abs_LUSC.run
+END
+mcl_sfld_2_sil.run
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/mcl_sfld_2_sil.run
+END
+analysis_all.run
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/analysis_all.run
+END
+testCase.run
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/CSB/ClustEval/!svn/ver/785/trunk/repository/runs/testCase.run
+END

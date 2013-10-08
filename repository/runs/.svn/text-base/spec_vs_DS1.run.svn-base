@@ -1,0 +1,10 @@
+programConfig = Spectral_Clustering
+dataConfig = DS1
+qualityMeasures = TransClustF2ClusteringQualityMeasure,SilhouetteValueRClusteringQualityMeasure
+mode = parameter_optimization
+optimizationMethod = DivisiveParameterOptimizationMethod
+optimizationCriterion = TransClustF2ClusteringQualityMeasure
+optimizationIterations = 10
+
+[Spectral_Clustering]
+optimizationParameters = k

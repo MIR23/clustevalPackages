@@ -1,0 +1,10 @@
+programConfig = TransClust_2
+dataConfig = astral
+qualityMeasures = TransClustF2ClusteringQualityMeasure
+mode = parameter_optimization
+optimizationMethod = DivisiveParameterOptimizationMethod
+optimizationCriterion = TransClustF2ClusteringQualityMeasure
+optimizationIterations = 10
+
+[TransClust_2]
+optimizationParameters = T

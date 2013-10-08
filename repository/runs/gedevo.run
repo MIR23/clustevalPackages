@@ -1,0 +1,11 @@
+context = GraphMatchingContext
+programConfig = gedevo
+dataConfig = rashid_merge
+qualityMeasures = AlignedEdgesQualityMeasure,GraphEditDistanceQualityMeasure,EdgeCorrectnessQualityMeasure
+mode = parameter_optimization
+optimizationMethod = LayeredDivisiveParameterOptimizationMethod
+optimizationCriterion = AlignedEdgesQualityMeasure
+optimizationIterations = 100
+
+[gedevo]
+optimizationParameters = pop,maxsame

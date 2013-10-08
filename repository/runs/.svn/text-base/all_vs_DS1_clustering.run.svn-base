@@ -1,0 +1,7 @@
+programConfig = TransClust_2,APcluster_1,MCL_1
+dataConfig = DS1
+qualityMeasures = TransClustF2ClusteringQualityMeasure
+mode = clustering
+
+#[TransClust_2:DS1]
+#T = 0.3

@@ -1,0 +1,11 @@
+programConfig = TransClust_2
+dataConfig = nora_cancer_abs_gbm
+qualityMeasures = SilhouetteValueRClusteringQualityMeasure
+mode = parameter_optimization
+optimizationMethod = LayeredDivisiveParameterOptimizationMethod
+optimizationCriterion = SilhouetteValueRClusteringQualityMeasure 
+optimizationIterations = 1001
+
+[TransClust_2]
+optimizationParameters = T
+optimizationMethod = TransClustQuantileParameterOptimizationMethod

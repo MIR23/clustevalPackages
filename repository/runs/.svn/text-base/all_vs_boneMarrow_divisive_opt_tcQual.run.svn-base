@@ -1,0 +1,26 @@
+programConfig = MCL_1,KMeans_Clustering,TransClust_2,Hierarchical_Clustering,Spectral_Clustering,APcluster_1
+dataConfig = boneMarrowGeneExpr
+qualityMeasures = SilhouetteValueRClusteringQualityMeasure,TransClustF2ClusteringQualityMeasure,FDRClusteringQualityMeasure,FPRClusteringQualityMeasure,RandIndexClusteringQualityMeasure,SensitivityClusteringQualityMeasure,SpecificityClusteringQualityMeasure
+mode = parameter_optimization
+optimizationMethod = DivisiveParameterOptimizationMethod
+optimizationCriterion = TransClustF2ClusteringQualityMeasure
+optimizationIterations = 1001
+
+[TransClust_2]
+optimizationParameters = T
+
+[MCL_1]
+optimizationParameters = I
+
+[APcluster_1]
+optimizationParameters = preference,maxits,convits,dampfact
+optimizationMethod = APDivisiveParameterOptimizationMethod
+
+[KMeans_Clustering]
+optimizationParameters = k
+
+[Hierarchical_Clustering]
+optimizationParameters = k
+
+[Spectral_Clustering]
+optimizationParameters = k

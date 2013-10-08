@@ -1,0 +1,10 @@
+programConfig = APcluster_1
+dataConfig = sfld_1
+qualityMeasures = TransClustF2ClusteringQualityMeasure
+mode = parameter_optimization
+optimizationMethod = APDivisiveParameterOptimizationMethod
+optimizationCriterion = TransClustF2ClusteringQualityMeasure
+optimizationIterations = 10
+
+[APcluster_1]
+optimizationParameters = preference,maxits,convits,dampfact

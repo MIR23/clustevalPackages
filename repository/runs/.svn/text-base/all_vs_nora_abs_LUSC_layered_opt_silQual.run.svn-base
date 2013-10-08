@@ -1,0 +1,26 @@
+programConfig = KMeans_Clustering,Spectral_Clustering,APcluster_1,MCL_1,TransClust_2,Hierarchical_Clustering
+dataConfig = nora_cancer_abs_lusc
+qualityMeasures = SilhouetteValueRClusteringQualityMeasure
+mode = parameter_optimization
+optimizationMethod = LayeredDivisiveParameterOptimizationMethod
+optimizationCriterion = SilhouetteValueRClusteringQualityMeasure
+optimizationIterations = 1001
+
+[TransClust_2]
+optimizationParameters = T
+
+[MCL_1]
+optimizationParameters = I
+
+[APcluster_1]
+optimizationParameters = preference,maxits,convits,dampfact
+optimizationMethod = APParameterOptimizationMethod
+
+[Hierarchical_Clustering]
+optimizationParameters = k
+
+[Spectral_Clustering]
+optimizationParameters = k
+
+[KMeans_Clustering]
+optimizationParameters = k

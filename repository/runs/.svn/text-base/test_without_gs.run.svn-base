@@ -1,0 +1,10 @@
+programConfig = TransClust_2
+dataConfig = test_without_gs
+qualityMeasures = SilhouetteValueRClusteringQualityMeasure
+mode = parameter_optimization
+optimizationMethod = DivisiveParameterOptimizationMethod
+optimizationCriterion = SilhouetteValueRClusteringQualityMeasure
+optimizationIterations = 10
+
+[TransClust_2]
+optimizationParameters = T

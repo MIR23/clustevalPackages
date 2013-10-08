@@ -1,0 +1,9 @@
+uniqueRunIdentifiers = 10_03_2012-14_01_04_all_vs_nora
+#10_02_2012-12_21_18_all_vs_nora
+#10_01_2012-22_31_10_all_vs_nora
+#08_20_2012-14_59_14_kmeans_vs_boneMarrow
+#09_23_2012-21_09_37_all_vs_DS1
+#09_21_2012-21_02_42_all_vs_arthur
+#09_21_2012-21_00_08_all_vs_nora
+mode = runAnalysis
+runStatistics = CooccurrenceRunStatistic,CooccurrenceBestRunStatistic

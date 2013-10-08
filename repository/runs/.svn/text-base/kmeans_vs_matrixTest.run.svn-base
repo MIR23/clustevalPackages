@@ -1,0 +1,13 @@
+programConfig = KMeans_Clustering,TransClust_2
+dataConfig = matrixTest
+qualityMeasures = TransClustF2ClusteringQualityMeasure
+mode = parameter_optimization
+optimizationMethod = DivisiveParameterOptimizationMethod
+optimizationCriterion = TransClustF2ClusteringQualityMeasure
+optimizationIterations = 2
+
+[KMeans_Clustering]
+optimizationParameters = k
+
+[TransClust_2]
+optimizationParameters = T
